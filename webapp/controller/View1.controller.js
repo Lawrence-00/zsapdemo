@@ -6,7 +6,7 @@ function (Controller) {
 
     return Controller.extend("zsapdemo.controller.View1", {
         onInit: function () {
-
+            //oninit method
         }
     });
 });
